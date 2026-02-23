@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Darroll
-- 👀 I’m interested in life
-- 🌱 I’m currently learning BICEP
-- 💞️ I’m looking to collaborate on impactful projects
+# Hey, I’m Darroll 👋
+
+I’m focused on building useful things that make a real impact.
+
+## What I’m into
+- 🌱 Currently learning and building with **Bicep**
+- 🤝 Looking to collaborate on **impactful projects**
+- 🛠️ Building practical systems and workflows that help people get things done
+
+## Working style
+- Outcome-focused
+- Practical over performative
+- Always improving the process
+
+## Connect
 - 📫 darroll.walsh@archtis.com
 
-<!---
-Darroll/Darroll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+> This profile README is a living snapshot of what I’m working on.
